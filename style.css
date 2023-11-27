@@ -1,0 +1,43 @@
+body {
+    background-color: #cfe1f2;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 2% 5% auto 5%;
+}
+
+.naranjaLargo {
+    background-color: #ff9801;
+    width: 20vw;
+    height: 3vw;
+}
+
+.naranjaCorto {
+    background-color: #ff9801;
+    width: 3vw;
+    height: 3vw;
+}
+
+main {
+    margin: 2% 5% auto 5%;
+}
+
+img {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
+
+p {
+    background-color: #7dbbea;
+    width: 70%;
+    height: 3vw;
+}
+
+footer {
+    background-color: #cb0000;
+    width: 100%;
+    height: 50vh;
+}
